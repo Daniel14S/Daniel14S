@@ -10,10 +10,12 @@ Actualmente estudio **Ingeniería en Software** en la **Universidad Técnica de 
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
+  
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Daniel14S&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel14S&layout=compact&theme=tokyonight)
 ![GitHub Streak](https://streak-stats.demolab.com?user=Daniel14S&theme=tokyonight&hide_border=false)
 ![Profile Views](https://komarev.com/ghpvc/?username=Daniel14S&color=blueviolet&style=for-the-badge)
+
 </div>
 
 ---
