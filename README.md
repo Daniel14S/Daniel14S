@@ -59,62 +59,73 @@ Actualmente estudio **Ingeniería en Software** en la **Universidad Técnica de 
 ## Proyectos destacados
 A continuación se listan los proyectos públicos y las colaboraciones en las que participé. Cada entrada incluye una breve descripción, features principales y comandos/uso rápido.
 
-### TaskManager-Onion-Blazor
-- Descripción: Sistema de gestión de tareas diseñado con Arquitectura Onion y desarrollado con Blazor Server (.NET 8). Separación en capas (Domain, Application, Infrastructure, Web).  
-- Features principales:
-  - Crear, editar, listar y eliminar tareas.
-  - Marcar tareas como completadas.
-  - Priorización con niveles (Baja, Media, Alta, Crítica).
-  - Persistencia con SQLite vía EF Core.
-  - UI responsiva con Bootstrap.
-- Tecnologías: .NET 8, Blazor Server, EF Core, SQLite, Bootstrap
-- Comandos útiles:
-  - git clone https://github.com/Daniel14S/TaskManager-Onion-Blazor
-  - dotnet restore
-  - dotnet build
-  - dotnet run --project src/TaskManager.Web/TaskManager.Web.csproj
-  - dotnet ef migrations add InitialCreate --project src/TaskManager.Infrastructure --startup-project src/TaskManager.Web
-- Repo: https://github.com/Daniel14S/TaskManager-Onion-Blazor
+### 🧱 [TaskManager-Onion-Blazor](https://github.com/Daniel14S/TaskManager-Onion-Blazor)
+> Sistema de gestión de tareas con **Arquitectura Onion**, **Blazor Server (.NET 8)** y **EF Core**.
+- ✅ CRUD completo (crear, editar, eliminar, marcar como completada)
+- 🧩 Priorización por nivel (Baja, Media, Alta, Crítica)
+- 🗃️ Persistencia con **SQLite**
+- 🎨 UI responsiva con **Bootstrap**
 
-### Fisei
-- Descripción: Material y recursos para la asignatura "MyCS 25-26". Contiene páginas estáticas y ejemplos en HTML/CSS para apoyar las clases.  
-- Features principales:
-  - Contenido didáctico y ejemplos web.
-  - Páginas estáticas fáciles de desplegar o publicar en GitHub Pages.
-- Tecnologías: HTML, CSS
-- Uso rápido:
-  - git clone https://github.com/Daniel14S/Fisei
-  - Abrir `index.html` en un navegador o publicar con GitHub Pages.
-- Repo: https://github.com/Daniel14S/Fisei
+```bash
+git clone https://github.com/Daniel14S/TaskManager-Onion-Blazor
+dotnet restore
+dotnet build
+dotnet run --project src/TaskManager.Web/TaskManager.Web.csproj
+dotnet ef migrations add InitialCreate --project src/TaskManager.Infrastructure --startup-project src/TaskManager.Web
+```
 
-### fisei-fork
-- Descripción: Fork del repositorio original de la asignatura, contiene adaptaciones y prácticas derivadas.  
-- Uso: Igual que Fisei, abrir archivos estáticos o desplegar en Pages.
-- Repo: https://github.com/Daniel14S/fisei-fork
+### 🧱 [Fisei](https://github.com/Daniel14S/Fisei)
+> Material y recursos para la asignatura "MyCS 25-26". Contiene páginas estáticas y ejemplos en **HTML/CSS**.  
+- 📚 Páginas estáticas didácticas
+- 🚀 Despliegue fácil en GitHub Pages
+
+```bash
+git clone https://github.com/Daniel14S/Fisei
+```
+- Abrir `index.html` en un navegador o publicar con GitHub Pages.
+
+
 
 ### Colaboraciones (selección)
-- FrontedC (colaboración)
-  - Descripción: Frontend del proyecto "GestiondesegurosC" en TypeScript; despliegue en Vercel.
-  - Contribuciones: Componentes, integración con API y ajustes UI.
-  - Uso típico: npm install && npm run dev
-  - Repo: https://github.com/Hlagua/FrontedC
+### 🖥️ [FrontedC (colaboración)](https://github.com/Hlagua/FrontedC)
+> Frontend del proyecto "GestiondesegurosC" en TypeScript; despliegue en Vercel.
+- 🧩 Componentes UI y ajuste de diseño
+- 🔗 Integración con API del backend
+- 🚀 Despliegue rápido con npm
 
-- backendC (colaboración)
-  - Descripción: Backend de "GestiondesegurosC" en JavaScript; implementa los endpoints que consume el frontend.
-  - Contribuciones: Endpoints, pruebas y documentación de rutas.
-  - Uso típico: npm install && npm start
-  - Repo: https://github.com/Hlagua/backendC
+```bash
+npm install
+npm run dev
+```
 
-- Estructura---Programa- (colaboración)
-  - Descripción: Proyecto educativo sobre estructuras y lógica en JavaScript.  
-  - Contribuciones: Organización del código y funcionalidades específicas.
-  - Uso: Abrir en navegador o servir con un servidor estático.
-  - Repo: https://github.com/kerly1811-mi/Estructura---Programa-
+### ⚙️ [backendC (colaboración)](https://github.com/Hlagua/backendC)
+> Backend de "GestiondesegurosC" en JavaScript; implementa los endpoints que consume el frontend.
+- 🔧 Implementación de endpoints
+- 📝 Documentación de rutas y pruebas
+- 🛠️ Coordinación con el frontend
 
-- proyecto-manejo-software (colaboración)
-  - Descripción: Proyecto para gestión y configuración de software; contribuciones en frontend y coordinación con el equipo.
-  - Uso: Sigue las instrucciones en el repo del autor para levantar el entorno.
-  - Repo: https://github.com/aaronreinoso/proyecto-manejo-software
+```bash
+npm install
+npm start
+```
+
+### 📐 [Estructura---Programa- (colaboración)](https://github.com/kerly1811-mi/Estructura---Programa-)
+> Proyecto educativo sobre estructuras y lógica en JavaScript.  
+- 🧩 Organización del código y funciones clave
+- 🚀 Uso en navegador o servidor estático
+
+```bash
+# Abrir directamente en navegador o servir con un servidor local
+```
+
+### 📐 [proyecto-manejo-software (colaboración)](https://github.com/aaronreinoso/proyecto-manejo-software)
+> Proyecto para gestión y configuración de software.
+- 🔧 Contribuciones en frontend
+- 📝 Coordinación y comunicación con equipo
+  
+```bash
+# Sigue las instrucciones en el repositorio del autor para levantar el entorno
+```
 
 ---
 
