@@ -1,17 +1,27 @@
-# Pedro Supe (Daniel14S)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:9333ea&height=180&section=header&text=Pedro%20Supe%20(Daniel14S)&fontSize=35&fontColor=ffffff)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Daniel14S&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel14S&layout=compact&theme=tokyonight)
+# 👋 ¡Hola! Soy Pedro Supe — @Daniel14S
 
-¡Hola! Soy Pedro Supe — estudiante de Ingeniería en Software en la Universidad Técnica de Ambato. Bienvenido a mi perfil de GitHub. 🚀
+💡 Desarrollador en formación apasionado por la **arquitectura limpia**, el **desarrollo full-stack con .NET** y la creación de software bien estructurado.  
+Actualmente estudio **Ingeniería en Software** en la **Universidad Técnica de Ambato**. 🚀
 
 ---
 
-## Sobre mí
-- 👨‍🎓 Estudiante de Ingeniería en Software — Universidad Técnica de Ambato  
-- 💻 Interesado en desarrollo full‑stack, buenas prácticas arquitectónicas y diseño limpio.  
-- 🔭 Trabajo en proyectos personales y colaborativos aplicando C#, Blazor, JavaScript/TypeScript y arquitecturas por capas.  
-- 🌱 Aprendiendo continuamente sobre .NET, arquitecturas Onion y desarrollo de interfaces web.
+## 📊 Estadísticas de GitHub
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Daniel14S&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel14S&layout=compact&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=Daniel14S&theme=tokyonight&hide_border=false)
+![Profile Views](https://komarev.com/ghpvc/?username=Daniel14S&color=blueviolet&style=for-the-badge)
+
+---
+
+## 🧠 Sobre mí
+
+- 👨‍🎓 Estudiante de **Ingeniería en Software** — Universidad Técnica de Ambato  
+- 💻 Interesado en desarrollo **full-stack**, **buenas prácticas arquitectónicas** y **diseño limpio**  
+- 🔭 Trabajo en proyectos personales y colaborativos aplicando **C#, Blazor, JavaScript/TypeScript** y **arquitecturas por capas**  
+- 🌱 En aprendizaje continuo sobre **.NET 8**, **arquitectura Onion** y **desarrollo web con Blazor Server**  
 
 ---
 
