@@ -143,6 +143,15 @@ npm start
 ---
 
 ## Contacto
-- GitHub: https://github.com/Daniel14S  
-- LinkedIn: https://www.linkedin.com/in/pedro-supe-759a95193  
-- Email: psupe8490@uta.edu.ec
+[![GitHub](https://img.shields.io/badge/GitHub-Daniel14S-181717?style=flat-square&logo=github)](https://github.com/Daniel14S)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pedro%20Supe-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/pedro-supe-759a95193)
+[![Email](https://img.shields.io/badge/Email-psupe8490@uta.edu.ec-red?style=flat-square&logo=gmail&logoColor=white)](mailto:psupe8490@uta.edu.ec)
+
+
+---
+
+## ✨ Notas finales
+
+Gracias por visitar mi perfil — ¡Nos vemos en el código! 🚀
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:9333ea,100:1e3a8a&height=120&section=footer)
